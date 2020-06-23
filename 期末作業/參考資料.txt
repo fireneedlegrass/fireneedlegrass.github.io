@@ -1,0 +1,6 @@
+漸層文字：http://blog.wingzero.tw/2017/08/css.html
+文字外框：https://ithelp.ithome.com.tw/articles/10192091
+音效：https://pjchender.blogspot.com/2017/01/js30day1.html
+label：https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Statements/label
+random：https://ithelp.ithome.com.tw/articles/10197904
+換行：https://hant-kb.kutu66.com/javascript/post_12141989

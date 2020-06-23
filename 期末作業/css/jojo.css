@@ -1,0 +1,74 @@
+body
+{
+    font-family: Microsoft JhengHei;
+}
+p
+{
+    font-size: 34px;
+    font-weight: 900;
+    text-align: center;
+    margin: 5px;
+}
+.title
+{
+    font-size: 80px;
+    font-weight: 900;
+    -webkit-text-stroke: 3px black;
+    background: linear-gradient(#e30784,#e30784,#f391cb,white,white);
+    color: transparent;
+    text-align: center;
+    -webkit-background-clip: text;
+}
+.bottom
+{
+    margin-left: 300px;
+    width: 300px;
+    border-radius: 50px;
+    background-color: #ff0090;
+    box-shadow: inset 0px 0px 20px 2px #0000006e, 0px 0px 50px white;
+}
+.bottom:hover
+{
+    background-color: #ff5db9;
+    cursor: pointer;
+}
+.bottom:active
+{
+    background-color: #c2468c;
+    cursor: pointer;
+}
+#begin:active
+{
+    background-image:url(../pic/konodioda.jpg)
+}
+.mdlpic
+{
+    height: 200px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    position: relative;
+    margin:auto;
+    display:block;
+}
+.bigmdlt
+{
+    font-size: 80px;
+    font-weight: 900;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.option:hover
+{
+    color: #ff0090;
+    cursor: pointer;
+}
+.option:active
+{
+    color: #b30669;
+}
+#conta
+{
+    position: relative;
+    margin: auto;
+}
