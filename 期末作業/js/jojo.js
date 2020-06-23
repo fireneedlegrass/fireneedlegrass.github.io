@@ -82,7 +82,7 @@ function setq(now) {
 }
 $(() => {
     $('#begin').on('click', () => {
-        fetch('../json/qu.json')
+        fetch('https://fireneedlegrass.github.io/期末作業/json/qu.json')
             .then(response => {
                 return response.json();
             })
