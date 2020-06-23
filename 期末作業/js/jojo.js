@@ -1,6 +1,6 @@
 var i = 0;
-var yes = new Audio('https://drive.google.com/file/d/1jFrPZiCXbxfqu6ISxzso9qXzlj80fxtI/view?usp=sharing');
-var no = new Audio('https://drive.google.com/file/d/13XTlRXynsUH2VXbq2QPL2PO_2ahYDRYG/view?usp=sharing');
+var yes = new Audio('../mp3/yes.wma');
+var no = new Audio('../mp3/yes.wma');
 var data;
 var score = 0;
 function showans(now) {
