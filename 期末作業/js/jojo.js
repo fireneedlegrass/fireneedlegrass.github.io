@@ -44,7 +44,7 @@ function setq(now) {
     $que = $('<p>').text(now.q);
     $('#conta').append($que);
     if (now.qpic != undefined) {
-        $qp = $('<img>').attr('src', 'https://fireneedlegrass.github.io/%E6%9C%9F%E6%9C%AB%E4%BD%9C%E6%A5%AD/'+now.qpic).addClass('mdlpic');
+        $qp = $('<img>').attr('src', 'https://fireneedlegrass.github.io/%E6%9C%9F%E6%9C%AB%E4%BD%9C%E6%A5%AD'+now.qpic).addClass('mdlpic');
         $('#conta').append($qp);
         $('#conta').css('top', '0');
     } else {
