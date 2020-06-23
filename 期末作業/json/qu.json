@@ -7,8 +7,8 @@
             "東方仗助",
             "喬瑟夫．喬斯達"
         ],
-        "qpic": "../pic/q0.png",
-        "apic": "../pic/a0.jpg"
+        "qpic": "/pic/q0.png",
+        "apic": "/pic/a0.jpg"
     },
     {
         "q": "洗內,_______！",
@@ -27,8 +27,8 @@
             "喬納森．喬斯達",
             "喬瑟夫．喬斯達"
         ],
-        "qpic": "../pic/q2.png",
-        "apic": "../pic/a2.jpg"
+        "qpic": "/pic/q2.png",
+        "apic": "/pic/a2.jpg"
     },
     {
         "q": "這是誰的jojo立？",
@@ -38,8 +38,8 @@
             "殺手皇后",
             "喬魯諾．喬巴拿"
         ],
-        "qpic": "../pic/q3.png",
-        "apic": "../pic/a3.jpg"
+        "qpic": "/pic/q3.png",
+        "apic": "/pic/a3.jpg"
     },
     {
         "q": "這是誰的jojo立？",
@@ -49,8 +49,8 @@
             "喬納森．喬斯達",
             "喬瑟夫．喬斯達"
         ],
-        "qpic": "../pic/q4.png",
-        "apic": "../pic/a4.webp"
+        "qpic": "/pic/q4.png",
+        "apic": "/pic/a4.webp"
     },
     {
         "q": "雷勒雷勒雷勒",
@@ -60,7 +60,7 @@
             "說謊的味道",
             "櫻桃的味道"
         ],
-        "apic": "../pic/a5.gif"
+        "apic": "/pic/a5.gif"
     },
     {
         "q": "這是誰的jojo立？",
@@ -70,8 +70,8 @@
             "空條承太郎",
             "穆罕默德．阿布德爾"
         ],
-        "qpic": "../pic/q6.png",
-        "apic": "../pic/a6.jpg"
+        "qpic": "/pic/q6.png",
+        "apic": "/pic/a6.jpg"
     },
     {
         "q": "龍舌蘭姑娘的真實身分",
@@ -81,8 +81,8 @@
             "喬納森．喬斯達",
             "西撒．齊貝林"
         ],
-        "qpic": "../pic/q7.jpg",
-        "apic": "../pic/a7.jpg"
+        "qpic": "/pic/q7.jpg",
+        "apic": "/pic/a7.jpg"
     },
     {
         "q": "遮蔽處為下列何者？",
@@ -92,8 +92,8 @@
             "說謊的味道",
             "陷阱，跑"
         ],
-        "qpic": "../pic/q8.jpg",
-        "apic": "../pic/a8.jpg"
+        "qpic": "/pic/q8.jpg",
+        "apic": "/pic/a8.jpg"
     },
     {
         "q": "這是誰的jojo立？",
@@ -103,8 +103,8 @@
             "喬魯諾．喬巴拿",
             "納蘭迦．基爾伽"
         ],
-        "qpic": "../pic/q9.png",
-        "apic": "../pic/a9.jpg"
+        "qpic": "/pic/q9.png",
+        "apic": "/pic/a9.jpg"
     },
     {
         "q": "這是誰的jojo立？",
@@ -114,8 +114,8 @@
             "伊奇",
             "J．P．波魯納雷夫"
         ],
-        "qpic": "../pic/q10.png",
-        "apic": "../pic/a10.jpg"
+        "qpic": "/pic/q10.png",
+        "apic": "/pic/a10.jpg"
     },
     {
         "q": "下圖的經典台詞",
@@ -125,8 +125,8 @@
             "對我而言，勇猛的戰士就是真理。",
             "但是，我拒絕！"
         ],
-        "qpic": "../pic/q11.png",
-        "apic": "../pic/a11.jpg"
+        "qpic": "/pic/q11.png",
+        "apic": "/pic/a11.jpg"
     },
     {
         "q": "下列哪個替身是Z開頭？",
@@ -136,7 +136,7 @@
             "Heaven Door",
             "The World"
         ],
-        "apic": "../pic/a12.gif"
+        "apic": "/pic/a12.gif"
     },
     {
         "q": "下列何者沒被做成甜甜圈？",
@@ -146,7 +146,7 @@
             "納蘭迦．基爾伽",
             "花京院典明"
         ],
-        "apic": "../pic/a13.jpg"
+        "apic": "/pic/a13.jpg"
     },
     {
         "q": "吸血鬼碰到塞車怎麼辦？",
@@ -156,7 +156,7 @@
             "下車用飛的",
             "宰了其他駕駛"
         ],
-        "apic": "../pic/a14.jpg"
+        "apic": "/pic/a14.jpg"
     },
     {
         "q": "我叫做吉良及影_____歲",
@@ -166,7 +166,7 @@
             "三十三",
             "34"
         ],
-        "apic": "../pic/a15.png"
+        "apic": "/pic/a15.png"
     },
     {
         "q": "喬斯達家世世代代都是_______（依據原文回答）",
@@ -185,8 +185,8 @@
             "納蘭迦．基爾伽",
             "喬魯諾．喬巴拿"
         ],
-        "qpic": "../pic/q17.jpg",
-        "apic": "../pic/a17.jpg"
+        "qpic": "/pic/q17.jpg",
+        "apic": "/pic/a17.jpg"
     },
     {
         "q": "羅大佑出現在第幾部？",
@@ -196,7 +196,7 @@
             "第三部",
             "第一部"
         ],
-        "apic": "../pic/a18.png"
+        "apic": "/pic/a18.png"
     },
     {
         "q": "⊙益⊙",
@@ -206,8 +206,8 @@
             "緋紅之王",
             "多比歐"
         ],
-        "qpic": "../pic/q19.png",
-        "apic": "../pic/a19.jpg"
+        "qpic": "/pic/q19.png",
+        "apic": "/pic/a19.jpg"
     },
     {
         "q": "第五部中暗殺小組有誰存活？",
@@ -226,7 +226,7 @@
             "麵包的味道",
             "甜甜圈的味道"
         ],
-        "apic": "../pic/a22.gif"
+        "apic": "/pic/a22.gif"
     },
     {
         "q": "dio失敗的原因",
