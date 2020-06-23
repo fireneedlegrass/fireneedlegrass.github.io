@@ -1,6 +1,6 @@
 var i = 0;
-var yes = new Audio('../mp3/yes.wma');
-var no = new Audio('../mp3/yes.wma');
+var yes = new Audio('https://fireneedlegrass.github.io/%E6%9C%9F%E6%9C%AB%E4%BD%9C%E6%A5%AD/mp3/yes.wma');
+var no = new Audio('https://fireneedlegrass.github.io/%E6%9C%9F%E6%9C%AB%E4%BD%9C%E6%A5%AD/mp3/yes.wmv');
 var data;
 var score = 0;
 function showans(now) {
@@ -9,7 +9,7 @@ function showans(now) {
     $ans.html($ans.html().replace('\n', '<br/>'));
     $('#conta').append($ans);
     if (now.apic != undefined) {
-        $qp = $('<img>').attr('src', now.apic).addClass('mdlpic');
+        $qp = $('<img>').attr('src', 'https://fireneedlegrass.github.io/%E6%9C%9F%E6%9C%AB%E4%BD%9C%E6%A5%AD'+now.apic).addClass('mdlpic');
         $('#conta').append($qp);
         $('#conta').css('top', '0');
     } else {
