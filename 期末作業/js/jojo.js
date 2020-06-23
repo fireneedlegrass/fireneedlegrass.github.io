@@ -1,6 +1,7 @@
 var i = 0;
 var yes = new Audio('https://fireneedlegrass.github.io/%E6%9C%9F%E6%9C%AB%E4%BD%9C%E6%A5%AD/mp3/yes.mp3');
 var no = new Audio('https://fireneedlegrass.github.io/%E6%9C%9F%E6%9C%AB%E4%BD%9C%E6%A5%AD/mp3/no.mp3');
+var backgroundAudio=new Audio('https://fireneedlegrass.github.io/%E6%9C%9F%E6%9C%AB%E4%BD%9C%E6%A5%AD/mp3/Sono%20Chi%20no%20Kioku%20end%20of%20THE%20WORLD.mp3');
 var data;
 var score = 0;
 function showans(now) {
@@ -95,6 +96,7 @@ $(() => {
                     data[ran1] = data[ran2];
                     data[ran2] = temp;
                 }
+                backgroundAudio.play();
                 i = 0;
                 setq(data[i]);
             })
